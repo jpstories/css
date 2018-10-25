@@ -1,0 +1,4 @@
+//html
+<link href="https://fonts.googleapis.com/css?family=Tinos" rel="stylesheet">
+//css
+font-family: 'Tinos', serif;

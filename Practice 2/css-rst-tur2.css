@@ -1,0 +1,18 @@
+* {
+  margin:0;
+  padding:0;
+  background-color: lightgreen;
+}
+
+section{
+  margin:17% 26%;
+}
+
+div {
+  border:1px solid black;
+  width:25px;
+  height:250px;
+  background-color: white;
+  float: left;
+  margin-left:20px;
+}
